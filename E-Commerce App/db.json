@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "name": "Domates",
+      "imageUrl": "https://www.seraf.com.tr/domates-1-kg-sebze-2138-29-K.jpg"
+    },
+    {
+      "name": "Salatalık",
+      "imageUrl": "https://sezenmanav.com/wp-content/uploads/2021/04/salatalik.jpg"
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://www.seraf.com.tr/domates-1-kg-sebze-2138-29-K.jpg"
+    },
+    {
+      "name": "Salatalık",
+      "imageUrl": "https://sezenmanav.com/wp-content/uploads/2021/04/salatalik.jpg"
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://www.seraf.com.tr/domates-1-kg-sebze-2138-29-K.jpg"
+    },
+    {
+      "name": "Salatalık",
+      "imageUrl": "https://sezenmanav.com/wp-content/uploads/2021/04/salatalik.jpg"
+    }
+  ],
+  "baskets": [
+    {
+      "name": "Domates",
+      "imageUrl": "https://www.seraf.com.tr/domates-1-kg-sebze-2138-29-K.jpg",
+      "id": 8
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://www.seraf.com.tr/domates-1-kg-sebze-2138-29-K.jpg",
+      "id": 9
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://www.seraf.com.tr/domates-1-kg-sebze-2138-29-K.jpg",
+      "id": 10
+    },
+    {
+      "name": "Salatalık",
+      "imageUrl": "https://sezenmanav.com/wp-content/uploads/2021/04/salatalik.jpg",
+      "id": 11
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://www.seraf.com.tr/domates-1-kg-sebze-2138-29-K.jpg",
+      "id": 12
+    }
+  ]
+}
